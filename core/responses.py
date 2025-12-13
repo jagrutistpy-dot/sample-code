@@ -1,4 +1,3 @@
-# Handles incoming HTTP request data (reads JSON from the client)
 # Sends HTTP responses back to the client (JSON or HTML)
 
 import json
